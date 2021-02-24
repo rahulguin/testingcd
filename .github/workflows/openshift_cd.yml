@@ -36,7 +36,7 @@ env:
   # ⬇️ EDIT with your registry and registry path.
   REGISTRY: docker.io/yashwanth1801
   # ⬇️ EDIT with your registry username.
-  REGISTRY_USER:yashwanth1801
+  REGISTRY_USER: yashwanth1801
   REGISTRY_PASSWORD: ${{ secrets.REGISTRY_PASSWORD }}
 
   # ⬇️ EDIT to log into your OpenShift cluster and set up the context.
