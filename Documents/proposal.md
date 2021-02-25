@@ -1,6 +1,6 @@
 # **Building CI/CD for API Project Proposal**
 
-###### EC528
+###### CS 6620
 
 ###### Team Members: Panat Taranat, Yan Chen, Mella Liang, Peter Wang, Kaito Yamagishi
 ###### Mentors: James Colley, Surya Jayanthi, Ata Turk
